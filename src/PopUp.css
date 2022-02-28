@@ -1,0 +1,9 @@
+.PopUp button {
+    color: rgb(0, 26, 255);
+    background: rgb(118, 134, 146);
+    box-shadow: 10px 10px blue;
+}
+
+Popover {
+    transition: 3s all;
+}
